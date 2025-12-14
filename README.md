@@ -63,8 +63,7 @@ Passionate Front-End Developer focused on building responsive, clean, and user-f
 - 🔹 **Angular Dashboard** – Responsive admin dashboard built with Angular & Tailwind  
 - 🔹 **Landing Page** – Modern landing page using HTML, CSS, Bootstrap  
 - 🔹 **Web App UI** – Clean UI components with Angular & TypeScript  
-
-*(بدّل الأسماء دي بمشاريعك الحقيقية)*
+  
 
 ---
 
