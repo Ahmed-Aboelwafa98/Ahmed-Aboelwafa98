@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="80%" alt="Frontend Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Abo%20El%20Wafa&fontSize=40&fontAlignY=35" />
+  <img width="80%" alt="Frontend Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Abo%20El%20Wafa&fontSize=40&fontAlignY=35" />
 </p>
 
 <h3 align="center">
@@ -12,7 +13,7 @@ Passionate Front-End Developer focused on building responsive, clean, and user-f
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-abo-el-wafa-5533292b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Abo%20El%20Wafa-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Abo%20El%20Wafa-blue?style=flat&logo=linkedin" />
   </a>
 </p>
 
@@ -44,20 +45,26 @@ Passionate Front-End Developer focused on building responsive, clean, and user-f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-abo-el-wafa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aboelwafa98&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abo-el-wafa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aboelwafa98&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Aboelwafa98&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-*(ضيف هنا أفضل مشاريع Angular أو Front-End)*
 
-- 🔹 Project Name – Short description
-- 🔹 Project Name – Short description
+- 🔹 **Angular Dashboard** – Responsive admin dashboard built with Angular & Tailwind  
+- 🔹 **Landing Page** – Modern landing page using HTML, CSS, Bootstrap  
+- 🔹 **Web App UI** – Clean UI components with Angular & TypeScript  
+
+*(بدّل الأسماء دي بمشاريعك الحقيقية)*
 
 ---
 
@@ -69,6 +76,5 @@ Passionate Front-End Developer focused on building responsive, clean, and user-f
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
