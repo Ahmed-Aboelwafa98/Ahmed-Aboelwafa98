@@ -1,43 +1,74 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img width="80%" alt="Frontend Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Abo%20El%20Wafa&fontSize=40&fontAlignY=35" />
+</p>
 
-<br />
+<h3 align="center">
+Frontend Developer | Angular
+</h3>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<p align="center">
+Passionate Front-End Developer focused on building responsive, clean, and user-friendly web applications.
+</p>
 
-**About me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abo-el-wafa-5533292b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Abo%20El%20Wafa-blue?style=flat&logo=linkedin">
+  </a>
+</p>
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+## 👨‍💻 About Me
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 💻 Front-End Developer specialized in **Angular**
+- 🎯 Focused on clean UI, performance, and responsive design
+- 🧠 Always learning and improving Front-End best practices
+- 🌍 Open to freelance & job opportunities
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+## 🛠️ Tech Stack
 
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass" />
+</p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind" />
+</p>
 
-#### Top Repositories
+---
 
+## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-abo-el-wafa&show_icons=true&theme=tokyonight" />
+</p>
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abo-el-wafa&layout=compact&theme=tokyonight" />
+</p>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
+---
+
+## 🚀 Featured Projects
+*(ضيف هنا أفضل مشاريع Angular أو Front-End)*
+
+- 🔹 Project Name – Short description
+- 🔹 Project Name – Short description
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/ahmed-abo-el-wafa-5533292b7
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
